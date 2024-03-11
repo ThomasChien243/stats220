@@ -9,8 +9,7 @@ This is my demo repository for STATS 220. In this repository, I will be showcasi
 ## Projects
 Here's a look at some of the projects I've worked on:
 
-1. **Analysis of XYZ Dataset** - A deep dive into the XYZ dataset, exploring trends, anomalies, and drawing conclusions.
-2. **Visualization Project** - Utilizing tools like ggplot2 to create compelling visualizations that tell a story.
+1. **Still working on it :)**
 
 - *Tools Used:*
   - R and RStudio
